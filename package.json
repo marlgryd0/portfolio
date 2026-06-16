@@ -1,0 +1,10 @@
+{
+  "name": "portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "watch": "node scripts/watch.js",
+    "serve": "npx --yes http-server docs -p 8080"
+  }
+}
